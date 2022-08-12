@@ -1,1 +1,1 @@
-db_password ="postgresql://[user]:[password]@[location]:[port]/[database]"
+db_password ="Gallegos777"
